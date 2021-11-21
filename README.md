@@ -3,7 +3,6 @@ I am Akalanka Nayanajith Gajasinghe, from Colombo,
 Sri Lanka who is an .Net Full Stack Developer 🚀 and Cloud enthusiast, 
 currently, 
 - Doing my B.Sc. from [SLIIT](https://www.sliit.lk/) University,Malabe;
-- Freelancer @Upwork;
 - Member of [VERTEX](http://vertex.lk/)
 - Former .Net Full Stack Developer [@DMS](https://www.dmsswe.com/);
 
